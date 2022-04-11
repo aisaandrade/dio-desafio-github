@@ -1,5 +1,3 @@
-# dio-desafio-github
+#certificados-do-bootcamp
 Desafio Projeto Git/Github
 
-##Links úteis 
-[sintaxe basic markdown](https://www.markdownguide.org/basic-syntax/)
